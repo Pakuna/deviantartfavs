@@ -1,0 +1,1 @@
+// Hide premium content and irrelevant elements like subscriptions
